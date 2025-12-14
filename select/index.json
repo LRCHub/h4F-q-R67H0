@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "修羅",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-14T13:37:39.884515Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "修羅",
+      "artist": "Does",
+      "has_synced": true,
+      "path": "select/01_修羅_Does.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "修羅",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/02_修羅_DOES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "修羅",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/03_修羅_DOES.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "修羅",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/04_修羅_DOES.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "修羅 (LIVE at Shinjuku LOFT)",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/05_修羅_(LIVE_at_Shinjuku_LOFT)_DOES.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "修羅",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/06_修羅_DOES.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "修羅",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/07_修羅_DOES.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "修羅",
+      "artist": "DOES",
+      "has_synced": true,
+      "path": "select/08_修羅_DOES.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "修羅",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/09_修羅_ヨルシカ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "修羅",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_修羅_ヨルシカ.txt"
+    }
+  ]
+}
